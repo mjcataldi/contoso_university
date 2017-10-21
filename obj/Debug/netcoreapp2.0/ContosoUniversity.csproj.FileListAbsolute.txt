@@ -1,0 +1,10 @@
+c:\Users\mcata\onedrive\documents\VSCode Projects\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+c:\Users\mcata\onedrive\documents\VSCode Projects\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+c:\Users\mcata\onedrive\documents\VSCode Projects\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+c:\Users\mcata\onedrive\documents\VSCode Projects\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+c:\Users\mcata\onedrive\documents\VSCode Projects\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+c:\Users\mcata\onedrive\documents\VSCode Projects\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+c:\Users\mcata\onedrive\documents\VSCode Projects\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+c:\Users\mcata\onedrive\documents\VSCode Projects\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+c:\Users\mcata\onedrive\documents\VSCode Projects\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+c:\Users\mcata\onedrive\documents\VSCode Projects\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
